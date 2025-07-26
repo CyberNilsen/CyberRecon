@@ -19,9 +19,9 @@
     "default_title": "CyberRecon"
   },
   "icons": {
-    "16": "icons/CyberRecon.png",
-    "32": "icons/CyberRecon.png",
-    "48": "icons/CyberRecon.png",
-    "128": "icons/CyberRecon.png"
+    "16": "icons/16.png",
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
   }
 }
