@@ -40,8 +40,8 @@ A powerful Chrome extension designed for cybersecurity professionals, researcher
 
 1. **Download the extension files**
    ```bash
-   git clone https://github.com/yourusername/cyberrecon.git
-   cd cyberrecon
+   git clone https://github.com/yourusername/CyberRecon.git
+   cd CyberRecon
    ```
 
 2. **Enable Developer Mode in Chrome**
@@ -142,7 +142,7 @@ A powerful Chrome extension designed for cybersecurity professionals, researcher
 
 ### File Structure
 ```
-cyberrecon/
+CyberRecon/
 ├── manifest.json        # Extension configuration
 ├── popup.html           # Main UI interface
 ├── popup.js             # Frontend logic
