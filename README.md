@@ -214,8 +214,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/CyberNilsen/CyberRecon/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/CyberNilsen/CyberRecon/discussions)
+- **Issues**: [GitHub Issues](https://github.com/yourusername/CyberRecon/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/CyberRecon/discussions)
 - **Security**: For security-related issues, please email andreasnilsen07@hotmail.com
 
 ---
