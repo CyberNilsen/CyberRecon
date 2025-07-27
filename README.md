@@ -36,6 +36,15 @@ A powerful Chrome extension designed for cybersecurity professionals, researcher
 
 ## 🚀 Installation
 
+### 🌟 Chrome Web Store (Recommended)
+
+**[📦 Install CyberRecon from Chrome Web Store](https://chromewebstore.google.com/detail/cyberrecon/ehmipcdilnbobijijlejmifoodbhffdk?hl=en&authuser=3)**
+
+1. **Visit the Chrome Web Store** using the link above
+2. **Click "Add to Chrome"** to install the extension
+3. **Confirm installation** in the popup dialog
+4. **Pin the extension** to your toolbar for easy access
+
 ### Manual Installation (Developer Mode)
 
 1. **Download the extension files**
