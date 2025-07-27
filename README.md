@@ -4,6 +4,8 @@
 
 A powerful Chrome extension designed for cybersecurity professionals, researchers, and enthusiasts to quickly gather intelligence on domains and IP addresses directly from their browser.
 
+<img width="1280" height="800" alt="CyberRecon" src="https://github.com/user-attachments/assets/6a80efd3-1907-4cf2-84d7-efd09a5ffd64" />
+
 
 ## ✨ Features
 
